@@ -122,16 +122,53 @@ body{
 	margin: 0;
 }
 
+#article-dos{
+	padding-top:15px; 
+}
+
+#texto-dos{
+	width: 300px;
+	padding: 15px;
+	box-sizing: content-box;
+	margin: 0;
+	position: absolute;
+	top: 161px;
+
+}
+
+.sprite-alejandra-aramayo{
+	position: absolute;
+	top: 290px;
+}
+
 .lista-icon{
 	position: absolute;
+}
+
+#nota1{
+	height: 300px;
+	background-color: #333340;
+}
+
+#nota2{
+	height: 300px;
+	background-color: #333340;
+	position: absolute;
+	bottom: 19px;
+	left: 310px;
 }
 
 .primertexto{
 	left: 35px;
 }
 
+.segundotexto{
+	top: 263px;
+	left: 16px;
+}
+
 .child{
-	width: 244px;
+	width: 312px;
 	position: relative;
 	top: 0;
 }
