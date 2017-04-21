@@ -1,0 +1,151 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #ebebeb;
+	position: relative;
+}
+
+/*header*/
+.sprite-logo{
+	position: absolute;
+	top: 20px;
+	left: 162px;
+}
+
+/*Título*/
+#titulo{
+	height: 85px;
+	background-color: #e00109;
+	position: relative;
+}
+
+#iconos{
+	position: absolute;
+	top: 28px;
+	left: 43%;
+}
+
+.redes-sociales{
+	color: white;
+	text-align: center;
+	font-size: 34px;
+	padding: 4px;
+}
+
+#div-circular{
+	position: absolute;
+	height: 30px;
+	width: 110px;
+	border: 3px white solid;
+	border-radius: 25px;
+	right: 146px;
+	top: 27px;
+}
+
+#texto-buscar{
+	font-size: 18px;
+	font-weight: 700;
+	color: white;
+	position: absolute;
+	top: -14px;
+	right: 42px;
+}
+
+.icon-lupa{
+	color: white;
+	position: absolute;
+	right: 11px;
+	top: 6px;
+}
+
+/*Menú*/
+#menu{
+	height: 46px;
+	background-color: #4d4d59;
+	text-align: center;
+}
+
+.texto-menu{
+	color: white;
+	display: inline-block;
+	text-transform: uppercase;
+	font-weight: 500;
+	padding: 14px 18px;
+	font-size: 15px;
+}
+
+.icon-flecha-hacia-abajo{
+	color: white;
+}
+
+/*Contenido*/
+
+#box{
+	background-color: white;
+	width: 975px;
+	position: absolute;
+	left: 165px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#box-section{
+	width: 637px;
+	position: absolute;
+	padding: 15px;
+	box-sizing: border-box;
+	background-color: white;
+}
+
+#article-dos{
+	display: inline-block;
+}
+
+.box-article{
+	background-color: #333340;
+	color: white;
+	font-weight: 500;
+	font-size: 21px;
+	height: 260px;
+}
+
+.sprite-odebrecht {
+    position: absolute;
+    top: 15px;
+    left: 197px;
+}
+
+#texto-uno{
+	width: 141px;
+	padding: 18px;
+	box-sizing: content-box;
+	margin: 0;
+}
+
+.lista-icon{
+	position: absolute;
+}
+
+.primertexto{
+	left: 35px;
+}
+
+.child{
+	width: 244px;
+	position: relative;
+	top: 0;
+}
+
+.icon-article{
+	color: #ebebeb;
+}
+
+
+/*Aside*/
+ #box-aside{
+ 	width: 372px;
+ 	position: absolute;
+ 	right: -64px;
+ 	padding: 15px;
+ 	background-color: white;
+ }

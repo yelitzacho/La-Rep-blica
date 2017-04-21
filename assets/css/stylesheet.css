@@ -1,0 +1,59 @@
+.sprite {
+    background-image: url('../img/spritesheet.png');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-151029172830_internacional_la_25_deportes__624x460_getty_nocredit {
+    width: 660px;
+    height: 486px;
+    background-position: 0 0;
+}
+
+.sprite-alcalde-de-chilca {
+    width: 243px;
+    height: 270px;
+    background-position: 0 -486px;
+}
+
+.sprite-alejandra-aramayo {
+    width: 312px;
+    height: 165px;
+    background-position: -243px -486px;
+}
+
+.sprite-anuncio {
+    width: 310px;
+    height: 86px;
+    background-position: -243px -651px;
+}
+
+.sprite-corea-del-norte- {
+    width: 312px;
+    height: 165px;
+    background-position: -660px 0;
+}
+
+.sprite-ejemplo-de-anuncio-de-mcdonalds-con-neuromarketing {
+    width: 397px;
+    height: 206px;
+    background-position: -660px -165px;
+}
+
+.sprite-logo {
+    width: 281px;
+    height: 49px;
+    background-position: -660px -371px;
+}
+
+.sprite-odebrecht {
+    width: 425px;
+    height: 250px;
+    background-position: -660px -420px;
+}
+
+.sprite-senora {
+    width: 53px;
+    height: 84px;
+    background-position: -972px 0;
+}
